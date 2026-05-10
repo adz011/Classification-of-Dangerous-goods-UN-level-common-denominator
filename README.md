@@ -19,3 +19,30 @@
   ## License
   This compilation is released under CC0 1.0 (Public Domain).
   You may use, modify, and redistribute freely, with or without attribution.
+
+## JSON structure
+```json
+{
+    "un": "",
+    "name": "",
+    "class": "",
+    "classificationCode": "",
+    "packingGroup": "",
+    "labels": "",
+    "specialProvisions": "",
+    "limitedQuantities": "",
+    "exceptedQuantities": "",
+    "packingInstructions": "",
+    "specialPackingProvisions": "",
+    "mixedPackingProvisions": "",
+    "portableTankInstructionsAndSpecialProvisions": "",
+    "adrTankCodeAndSpecialProvisions": "",
+    "vehicleForTankCarriage": "",
+    "transportCategoryTunnelCodeAndPackages": "",
+    "bulkSpecialProvisions": "",
+    "loadingUnloadingHandlingAndOperation": "",
+    "hazardIdentificationNo": ""
+  }
+```
+File contains 3485 records of which 2352 are different UN codes.
+  
